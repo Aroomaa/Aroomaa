@@ -3,7 +3,7 @@
 - 👩‍💻 I am Arooma, mechatronics engineer with experience in embedded systems, machine learning and computer vision.
 - 🤖 I like to integrate embedded AI and robotics to create intelligent automated solutions. 
 
-***I believe such robotic systems can be used to perform dangerous tasks that involve life risks, with safety and efficiency.***
+***I believe such robotic systems should be used to perform dangerous tasks that involve life risks, with safety and efficiency.***
 
 - 🌱 I’m currently learning about 3D vision and point cloud processing.
 - 🔭 I would like to work on above mentioned technologies such as perception systems involving use of ROS/ROS2, camera-LiDAR calibration and sensor fusion.
